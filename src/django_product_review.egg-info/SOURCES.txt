@@ -4,11 +4,11 @@ README.md
 pyproject.toml
 setup.cfg
 setup.py
-src/django_review.egg-info/PKG-INFO
-src/django_review.egg-info/SOURCES.txt
-src/django_review.egg-info/dependency_links.txt
-src/django_review.egg-info/requires.txt
-src/django_review.egg-info/top_level.txt
+src/django_product_review.egg-info/PKG-INFO
+src/django_product_review.egg-info/SOURCES.txt
+src/django_product_review.egg-info/dependency_links.txt
+src/django_product_review.egg-info/requires.txt
+src/django_product_review.egg-info/top_level.txt
 src/review/__init__.py
 src/review/admin.py
 src/review/apps.py

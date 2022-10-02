@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: django-review
+Name: django-product-review
 Version: 0.0.1
 Summary: Django review app
 Home-page: https://github.com/Oseni03/django-review
@@ -17,7 +17,6 @@ Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3.10
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE
