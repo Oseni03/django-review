@@ -8,7 +8,7 @@ register = template.Library()
 @register.inclusion_tag('review/product_reviews.html')
 def reviews(product):
   return {
-    "reviews": Review.objects.filter(product=product, is_active=True),
+    "reviews": Review.objects.filter(product=product, is_active=True)[:5],
     "form": ReviewForm(),
     "product": product,
   }
